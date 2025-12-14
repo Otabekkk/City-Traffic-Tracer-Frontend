@@ -17,7 +17,7 @@
 Asel && Yana — Pitch / Design / UX  
 Otabek — Backend / Frontend / SUMO  
 Sanjar — Product Manager && Strategist   
-Bekmyrza — Simulation  
+Bekmyrza — Simulation / Design  
 
 ---
 
