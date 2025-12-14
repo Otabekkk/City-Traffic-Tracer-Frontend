@@ -13,9 +13,9 @@
 ---
 
 ## ^^ Команда
-Asel && Yana — Pitch / Design
-Otabek — Backend  
-Asel — Frontend / UX  
+
+Asel && Yana — Pitch / Design / UX 
+Otabek — Backend / Frontend / SUMO  
 Sanjar — Product Manager && Strategist 
 Bekmyrza — Simulation  
 
