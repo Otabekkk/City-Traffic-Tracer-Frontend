@@ -172,13 +172,15 @@ function App() {
 
       <strong>Ядерные грибы | Inai.kg | 2025</strong>
       <br />
-      Asel &amp;&amp; Yana — Pitch / Design / UX
+      Asel - Design / UX  
       <br />
-      Otabek — Backend / Frontend / SUMO
+      Yana — Pitch /  Design  
       <br />
-      Sanjar — Product Manager &amp;&amp; Strategist
+      Otabek — Backend / SUMO / Simulation  
       <br />
-      Bekmyrza — Simulation / Design
+      Sanjar — Product Manager / Strategist
+      <br />
+      Bekmyrza —  Design / Frontend 
     </p>
       </footer>
     </div>
@@ -186,3 +188,9 @@ function App() {
 }
 
 export default App;
+
+
+
+
+  
+
