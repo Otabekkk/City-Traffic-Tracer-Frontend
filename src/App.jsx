@@ -94,7 +94,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🚦 Симулятор светофоров</h1>
+        <h1>🚦</h1>
         <p>Оптимизация транспортных потоков на перекрестках</p>
       </header>
 
@@ -167,6 +167,19 @@ function App() {
 
       <footer className="footer">
         <p>Traffic Light Simulator • Данные обновляются в реальном времени</p>
+        <br></br>
+        <p>
+
+      <strong>Ядерные грибы | Inai.kg | 2025</strong>
+      <br />
+      Asel &amp;&amp; Yana — Pitch / Design / UX
+      <br />
+      Otabek — Backend / Frontend / SUMO
+      <br />
+      Sanjar — Product Manager &amp;&amp; Strategist
+      <br />
+      Bekmyrza — Simulation / Design
+    </p>
       </footer>
     </div>
   );
